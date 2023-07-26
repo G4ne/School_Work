@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\aj-mo\Documents\Scripts\School\Dutch_Flag\Machine.h(16,69): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-  Dutch_Flag.vcxproj -> C:\Users\aj-mo\Documents\Scripts\School\Dutch_Flag\x64\Debug\Dutch_Flag.exe
