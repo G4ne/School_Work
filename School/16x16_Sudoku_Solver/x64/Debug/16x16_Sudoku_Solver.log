@@ -1,0 +1,4 @@
+﻿  Sudoku.cpp
+C:\Users\aj-mo\Documents\Scripts\School\16x16_Sudoku_Solver\Sudoku.cpp(180,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aj-mo\Documents\Scripts\School\16x16_Sudoku_Solver\Sudoku.cpp(182,43): warning C4018: '<': signed/unsigned mismatch
+  16x16_Sudoku_Solver.vcxproj -> C:\Users\aj-mo\Documents\Scripts\School\16x16_Sudoku_Solver\x64\Debug\16x16_Sudoku_Solver.exe

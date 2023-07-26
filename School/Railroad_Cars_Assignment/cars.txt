@@ -1,0 +1,225 @@
+Box		28.2	49.7	12.4	
+Box		36.3	30.9	34.3	
+Box		45.1	36.6	13.7	
+Refrigerator	49.5	10.3	16.7	41
+Tank		39.2	32.9		
+Box		28.3	43.4	32	
+Refrigerator	35.4	23.7	11.6	35
+Tank		19.5	39.6		
+Tank		24.8	41.9		
+Tank		49.9	18.1		
+Box		33.6	42.2	13.1	
+Refrigerator	42.6	46	45.9	27
+Refrigerator	46	46	34.7	38
+Tank		21.5	46		
+Box		35.4	20	24.5	
+Tank		47.6	48.6		
+Refrigerator	10.3	24.9	23.7	43
+Refrigerator	39.3	46.4	39.3	49
+Refrigerator	13.4	24.8	25.7	22
+Box		20.6	40.9	12.6	
+Refrigerator	16.5	36.4	45.5	40
+Tank		13.6	33		
+Refrigerator	21.9	10.9	34.7	47
+Box		50	22.6	30.4	
+Refrigerator	11.9	19.6	18.4	23
+Refrigerator	19.2	46.2	14.5	30
+Tank		36.2	11.8		
+Box		25.6	36.2	40.1	
+Tank		46.9	15.1		
+Refrigerator	12.8	18.8	36.5	18
+Refrigerator	36.9	44	48	46
+Box		32.8	27	11.3	
+Tank		44.7	32.2		
+Box		33.7	41.3	11.1	
+Tank		45.2	49.4		
+Box		40.1	21.7	45.5	
+Refrigerator	29.9	20.3	42.9	23
+Tank		13.5	35.9		
+Refrigerator	33.6	12.4	15.8	10
+Tank		30.5	39.6		
+Tank		29.5	28.4		
+Box		49.4	21.9	30.8	
+Refrigerator	45.5	18.1	45.8	24
+Tank		10.6	47.4		
+Refrigerator	21.9	27	30.1	11
+Box		40	44	13.5	
+Tank		40.5	15.8		
+Box		17.8	13	38.2	
+Box		14.2	34.2	17.3	
+Box		18.5	34	10.3	
+Box		40.3	35.1	47.9	
+Tank		14.9	14.7		
+Refrigerator	44.3	32.4	45.2	34
+Box		29.2	19.2	35.5	
+Refrigerator	22.6	16.1	21.7	46
+Box		20.6	38.8	22.3	
+Tank		11.9	40.6		
+Box		15.4	48.3	15	
+Box		40.8	20.4	27.9	
+Box		17.1	43.5	35.3	
+Tank		42.2	12.9		
+Box		27.6	21.1	46.1	
+Box		45.4	45.5	34.7	
+Box		41.8	32	16.6	
+Box		39.3	37.5	30.3	
+Box		19.1	49.5	19.7	
+Box		39.8	32.1	48.3	
+Refrigerator	22.6	15.5	33.8	37
+Box		47.7	26.8	41.4	
+Refrigerator	10.8	46.8	19.1	40
+Refrigerator	35.2	30.4	40.7	46
+Box		17.5	43.6	40.1	
+Refrigerator	22.6	29.8	25.4	36
+Refrigerator	20.4	37.7	28.2	25
+Refrigerator	14.1	11.8	19.7	26
+Refrigerator	49	24.8	45.9	26
+Refrigerator	47.7	14.6	32.9	21
+Box		28.4	22.4	11.5	
+Tank		10.7	45.6		
+Tank		40.7	29.2		
+Tank		27.7	16.8		
+Refrigerator	40	47.4	49.3	12
+Box		43.1	41.8	32.4	
+Tank		30.3	10.5		
+Tank		28	12.2		
+Refrigerator	30.8	27.5	38.1	28
+Refrigerator	43.4	17.9	15.7	47
+Tank		36.2	49.8		
+Refrigerator	33.3	28.1	44.5	17
+Refrigerator	40.4	46.4	16.8	46
+Tank		43.3	39.9		
+Tank		43.6	48.7		
+Box		10.6	47.8	24.5	
+Tank		42.8	41		
+Tank		29.2	12.6		
+Box		14.2	34.6	27.3	
+Refrigerator	36.3	49.8	10.8	11
+Refrigerator	39.5	31.7	29.1	26
+Refrigerator	31.4	28.6	29.2	32
+Box		15.4	33.6	32.1	
+Tank		48.1	23.1		
+Tank		30.9	13.9		
+Tank		37.2	16.4		
+Tank		27.4	30.6		
+Tank		37.4	23.4		
+Refrigerator	38.1	43.5	43.6	39
+Refrigerator	18.7	31.3	47	41
+Tank		41	22.5		
+Refrigerator	17.5	48.4	45.8	43
+Box		43.1	17.6	41.5	
+Refrigerator	13.4	11.8	16.7	21
+Tank		36.7	33.1		
+Box		15.3	22.5	29.4	
+Tank		19.5	16.8		
+Box		38.5	17.9	33.5	
+Box		24.8	18.3	19.4	
+Box		49.8	50	44.7	
+Box		48.1	13.9	14.1	
+Refrigerator	33.1	42.2	31.4	34
+Tank		27	41.2		
+Box		10.3	43.3	11.3	
+Box		32	40.9	15	
+Box		19.7	48.8	18.6	
+Tank		37.5	38.2		
+Box		45.5	14.8	37.1	
+Tank		12.8	10.6		
+Box		31.2	45.1	35.3	
+Tank		30.3	39.9		
+Box		14	35.5	35.5	
+Box		48.2	42.6	19.4	
+Box		43.9	32.9	48.4	
+Refrigerator	32.2	22.4	12.1	27
+Tank		45.5	41.6		
+Refrigerator	35.3	37.5	22.4	27
+Tank		21	46.6		
+Refrigerator	12.3	49.3	20.9	37
+Refrigerator	33.5	27.7	43.5	15
+Box		33	22.3	12.7	
+Tank		49.7	42.1		
+Box		34.1	33.8	19.4	
+Tank		31.5	32.2		
+Refrigerator	24.8	13.3	33.5	38
+Box		16.9	37	49.6	
+Refrigerator	29.6	28	21.9	21
+Tank		39.3	26.9		
+Tank		10.5	45.2		
+Refrigerator	10.9	17	12.4	25
+Tank		39.6	45.2		
+Tank		11.9	15.3		
+Box		49.3	46.3	49	
+Box		49	45.7	17.5	
+Tank		27.7	29.4		
+Refrigerator	25	47.1	18.7	13
+Tank		21	37.3		
+Tank		41.8	26.3		
+Refrigerator	47.6	14.1	49.6	17
+Box		10.5	43.1	48.5	
+Box		22.3	23	17.7	
+Refrigerator	34.3	40.9	46	14
+Box		34.8	47.4	19.1	
+Box		18.6	27.6	43.1	
+Refrigerator	38.2	19.5	49.2	22
+Refrigerator	40.3	44.6	17.1	16
+Tank		45.1	36.4		
+Refrigerator	48.8	18.9	38.3	44
+Tank		14.8	43.8		
+Tank		32.8	29.7		
+Tank		48.5	48.3		
+Refrigerator	47.2	42.5	41.5	17
+Box		25.6	38.4	34.8	
+Tank		34.9	21.2		
+Box		38.9	23.9	36.8	
+Box		46.5	22.8	36.8	
+Tank		45.8	27.3		
+Box		30.7	35.7	41	
+Tank		39.6	37.6		
+Refrigerator	26.3	42.2	29.5	34
+Refrigerator	45.2	34.2	36.3	48
+Refrigerator	29.6	25.1	49.6	45
+Tank		17.3	41.5		
+Box		22.8	48.2	45.5	
+Tank		46.2	17.8		
+Tank		48.3	49.9		
+Tank		15.1	45.8		
+Refrigerator	43.7	15.3	43.7	33
+Refrigerator	48.6	46.3	30.2	33
+Refrigerator	27.1	24.6	35.9	36
+Tank		20.5	21.1		
+Refrigerator	16.3	12.7	35.4	26
+Refrigerator	16.7	36	21.6	22
+Refrigerator	11.8	34.9	26.6	48
+Tank		48.6	14		
+Tank		32.1	29.7		
+Box		42.5	21.8	44.1	
+Box		20.9	44.1	37.3	
+Refrigerator	45.9	31.9	40.1	23
+Box		30.5	15.2	48.4	
+Box		44.5	45.2	23.5	
+Tank		15	22.6		
+Tank		28.4	39.9		
+Refrigerator	24.4	28.2	15	35
+Box		37.3	25	27.5	
+Box		30.2	11.2	11.8	
+Tank		14.8	41.5		
+Tank		26.2	49.6		
+Box		10.9	30.1	25.5	
+Box		29.6	45.1	44.3	
+Tank		44.8	32.2		
+Box		30	47.6	18.7	
+Refrigerator	43.1	48.6	12.9	32
+Box		27.9	16.8	49.8	
+Refrigerator	37.3	26.5	18.8	32
+Refrigerator	44.7	13.7	17.3	48
+Box		17.5	35.9	12.7	
+Tank		26.9	22.5		
+Refrigerator	46.1	23.4	10.8	28
+Box		25.8	30.1	30.2	
+Box		33.5	24.1	19.5	
+Tank		38.6	42.6		
+Box		28.9	47.7	16.9	
+Box		42.4	35	45.5	
+Box		29	19.9	47.9	
+Tank		41	11.7		
+Box		41.6	49.1	34.8	
+Refrigerator	42.6	44.8	10.2	24
